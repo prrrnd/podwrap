@@ -1,3 +1,6 @@
+[![Build
+Status](https://travis-ci.com/prrrnd/podwrap.svg?branch=master)](https://travis-ci.com/prrrnd/podwrap)
+
 # Podwrap
 
 Simple RSS wrapper for podcast feed parsing
