@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Changelog Master Feed</title>
+    <copyright>All rights reserved</copyright>
+    <link>https://changelog.com/master</link>
+    <atom:link href="https://changelog.com/master/feed" rel="self" type="application/rss+xml" />
+    <atom:link href="https://changelog.com/master" rel="alternate" type="text/html" />
+    <language>en-us</language>
+    <description>Master feed of all Changelog podcasts  </description>
+    <itunes:subtitle>Changelog Master Feed</itunes:subtitle>
+    <itunes:author>Changelog Media</itunes:author>
+    <itunes:summary>Master feed of all Changelog podcasts  </itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://cdn.changelog.com/images/podcasts/master-original-0ed95506d03b5dbd6cec53040dd6eb13.png?vsn=d"/>
+    <itunes:keywords>changelog, open source, oss, software, development, developer, hacker</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Changelog Media</itunes:name>
+      <itunes:email>editors@changelog.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To"/>
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+      <item>
+        <title>New year’s resolution:  dive into deep learning! (Practical AI #28)</title>
+        <link>https://changelog.com/practicalai/28</link>
+        <guid isPermaLink="false">changelog.com/7/657</guid>
+        <pubDate>Mon, 28 Jan 2019 12:00:00 +0000</pubDate>
+        <dc:creator>Chris Benson and Daniel Whitenack</dc:creator>
+        <description><![CDATA[<p><em><strong>Fully Connected</strong> – a series where Chris and Daniel keep you up to date with everything that’s happening in the AI community.</em></p>
+<p>If you’re anything like us, your New Year’s resolutions probably included an AI section, so this week we explore some of the learning resources available for artificial intelligence and deep learning.  Where you go with it depends upon what you want to achieve, so we discuss academic versus industry career paths, and try to set you on the Practical AI path that will help you level up.</p>
+
+  <p>Sponsors</p>
+  <ul>
+    <li>
+      <a href="https://www.fastly.com/?utm_source=changelog&amp;utm_medium=podcast&amp;utm_campaign=changelog-sponsorship">Fastly</a> – <strong>Our bandwidth partner.</strong> Fastly powers fast, secure, and scalable digital experiences. Move beyond your content delivery network to their powerful edge cloud platform. Learn more at <a href="https://www.fastly.com/?utm_source=changelog&amp;utm_medium=podcast&amp;utm_campaign=changelog-sponsorship">fastly.com</a>.
+
+    </li>
+    <li>
+      <a href="https://rollbar.com/changelog">Rollbar</a> – <strong>We move fast and fix things because of Rollbar.</strong> Resolve errors in minutes. Deploy with confidence. Learn more at <a href="https://rollbar.com/changelog">rollbar.com/changelog</a>.
+
+    </li>
+    <li>
+      <a href="https://linode.com/changelog">Linode</a> – <strong>Our cloud server of choice.</strong> Deploy a fast, efficient, native SSD cloud server for only $5/month. Get 4 months free using the code <code>changelog2018</code>. Start your server - head to <a href="https://linode.com/changelog">linode.com/changelog</a>
+
+    </li>
+    <li>
+      <a href="https://www.algolia.com/?utm_source=changelog&amp;utm_medium=podcast&amp;utm_campaign=changelog-sponsorship">Algolia</a> – <strong>Our search partner.</strong> Algolia’s full suite search APIs enable teams to develop unique search and discovery experiences across all platforms and devices. We’re using Algolia to power our site search here at Changelog.com. Get started for free and learn more at <a href="https://www.algolia.com/?utm_source=changelog&amp;utm_medium=podcast&amp;utm_campaign=changelog-sponsorship">algolia.com</a>.
+
+    </li>
+  </ul>
+
+  <p>Featuring</p>
+  <ul>
+    <li>Chris Benson &ndash; <a href="https://twitter.com/chrisbenson">Twitter</a>, <a href="https://github.com/chrisbenson">GitHub</a>, <a href="https://chrisbenson.com">Website</a></li>
+    <li>Daniel Whitenack &ndash; <a href="https://twitter.com/dwhitena">Twitter</a>, <a href="https://github.com/dwhitena">GitHub</a>, <a href="https://www.datadan.io/">Website</a></li>
+  </ul>
+<p>Notes and Links</p>
+<h4>Courses</h4>
+<ul>
+<li><a href="https://aws.amazon.com/training/learning-paths/machine-learning">Amazon Machine Learning with AWS</a></li>
+<li><a href="https://developers.google.com/machine-learning/crash-course">Google Machine Learning Crash Course with TensorFlow APIs</a></li>
+<li><a href="https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence">Microsoft Professional Program for Artificial Intelligence</a></li>
+<li><a href="https://www.deeplearning.ai/deep-learning-specialization">Coursera / deeplearning.ai</a></li>
+<li><a href="https://www.nvidia.com/en-us/deep-learning-ai/education">NVIDIA Deep Learning Institute</a></li>
+<li><a href="https://www.techrepublic.com/article/google-amazon-microsoft-how-do-their-free-machine-learning-courses-compare">Google, Amazon, Microsoft: How do their free machine-learning courses compare?</a></li>
+<li><a href="https://www.youtube.com/watch?v=PPLop4L2eGk&amp;list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN">Stanford Machine Learning Videos on YouTube</a></li>
+</ul>
+<h4>Books</h4>
+<ul>
+<li><a href="http://www.deeplearningbook.org">Deep Learning textbook</a> by Ian Goodfellow, Yoshua Bengio, and Aaron Courville</li>
+<li><a href="https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-go">Machine Learning With Go</a> by Daniel Whitenack</li>
+</ul>
+<p>(Daniel is too humble to put his own book in this list, so Chris inserted it above without Daniel’s knowledge - because it’s a damn fine book!)</p>
+<h4>Hybrid resources</h4>
+<p><a href="https://developers.google.com/machine-learning/crash-course">Machine learning with TensorFlow crash course</a><br />
+<a href="https://in.udacity.com/course/deep-learning-pytorch--ud188">Intro to deep learning with PyTorch</a><br />
+<a href="https://blog.openai.com/spinning-up-in-deep-rl">Spinning Up in Deep RL</a></p>
+<h4>Meetups</h4>
+<p><a href="https://www.meetup.com/pro/pydata">PyData</a><br />
+<a href="http://atlantadeeplearning.org">Atlanta Deep Learning Meetup</a></p>
+]]></description>
+
+        <enclosure url="https://cdn.changelog.com/uploads/practicalai/28/practical-ai-28.mp3" length="51260021" type="audio/mpeg" />
+        <itunes:author>Chris Benson and Daniel Whitenack</itunes:author>
+        <itunes:image href="https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63688789033"/>
+        <itunes:duration>35:34</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:keywords>changelog, ai, machine learning, deep learning, artificial intelligence, neural networks, computer vision</itunes:keywords>
+        <itunes:subtitle>get Fully-Connected with Chris and Daniel</itunes:subtitle>
+        <itunes:summary>Fully Connected – a series where Chris and Daniel keep you up to date with everything that’s happening in the AI community. If you’re anything like us, your New Year’s resolutions probably included an AI section, so this week we explore some of the learning resources available for artificial intelligence and deep learning.  Where you go with it depends upon what you want to achieve, so we discuss academic versus industry career paths, and try to set you on the Practical AI path that will help you level up. </itunes:summary>
+      </item>
+      <item>
+        <title>Isaac Schlueter on building npm and hiring a CEO (Founders Talk #61)</title>
+        <link>https://changelog.com/founderstalk/61</link>
+        <guid isPermaLink="false">changelog.com/4/653</guid>
+        <pubDate>Fri, 25 Jan 2019 12:05:00 +0000</pubDate>
+        <dc:creator>Adam Stacoviak</dc:creator>
+        <description><![CDATA[<p>With JavaScript in every corner of software development and npm in every corner right along with it, the rise of npm can be drawn as a hockey stick up and to the right with Isaac Schlueter at the top grinning ear to ear. After reading their recent announcement to hire a CEO, I knew it was time to talk one-on-one with Isaac about building npm and the journey of hiring his successor.</p>
+
+  <p>Sponsors</p>
+  <ul>
+    <li>
+      <a href="https://do.co/changelog">DigitalOcean</a> – <strong>The simplest cloud platform for developers and teams</strong> Whether you’re running one virtual machine or ten thousand, makes managing your infrastructure too easy. New accounts get $100 in credit to use in your first 60 days.
+
+    </li>
+    <li>
+      <a href="https://www.gitprime.com/changelog">GitPrime</a> – <strong>Ship faster because you know more. Not because you’re rushing.</strong> GitPrime helps software teams accelerate their velocity and release products faster by turning historical git data into easy to understand insights and reports.
+
+    </li>
+    <li>
+      <a href="https://www.fastly.com/?utm_source=changelog&amp;utm_medium=podcast&amp;utm_campaign=changelog-sponsorship">Fastly</a> – <strong>Our bandwidth partner.</strong> Fastly powers fast, secure, and scalable digital experiences. Move beyond your content delivery network to their powerful edge cloud platform. Learn more at <a href="https://www.fastly.com/?utm_source=changelog&amp;utm_medium=podcast&amp;utm_campaign=changelog-sponsorship">fastly.com</a>.
+
+    </li>
+    <li>
+      <a href="https://rollbar.com/changelog">Rollbar</a> – <strong>We move fast and fix things because of Rollbar.</strong> Resolve errors in minutes. Deploy with confidence. Learn more at <a href="https://rollbar.com/changelog">rollbar.com/changelog</a>.
+
+    </li>
+  </ul>
+
+  <p>Featuring</p>
+  <ul>
+    <li>Isaac Schlueter &ndash; <a href="https://twitter.com/izs">Twitter</a>, <a href="https://github.com/isaacs">GitHub</a>, <a href="https://izs.me/">Website</a></li>
+    <li>Adam Stacoviak &ndash; <a href="https://twitter.com/adamstac">Twitter</a>, <a href="https://github.com/adamstac">GitHub</a>, <a href="http://adamstacoviak.com/">Website</a></li>
+  </ul>
+<p>Notes and Links</p>
+<ul>
+<li><a href="https://blog.npmjs.org/post/181872197694/npm-inc-has-a-new-ceo-bryan-bogensberger">npm, Inc. has a new CEO, Bryan Bogensberger</a></li>
+<li><a href="https://www.npm-enterprise.com/">npm for enterprises</a></li>
+<li><a href="https://www.npmjs.com/features">npm for orgs</a></li>
+<li><a href="https://www.npmjs.com/about">npm’s about page</a></li>
+<li><a href="https://github.com/npm/cli">npm/cli</a> on GitHub</li>
+<li><a href="https://docs.npmjs.com/cli/audit">npm audit</a></li>
+</ul>
+]]></description>
+
+        <enclosure url="https://cdn.changelog.com/uploads/founderstalk/61/founders-talk-61.mp3" length="98353731" type="audio/mpeg" />
+        <itunes:author>Adam Stacoviak</itunes:author>
+        <itunes:image href="https://cdn.changelog.com/uploads/covers/founders-talk-original.png?v=63688781340"/>
+        <itunes:duration>1:08:13</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:keywords>changelog, founders, startups, business, entrepreneur, development, ceo, entrepreneurship</itunes:keywords>
+        <itunes:subtitle>featuring Isaac Schlueter, Co-founder and Chief Product Officer of npm</itunes:subtitle>
+        <itunes:summary>With JavaScript in every corner of software development and npm in every corner right along with it, the rise of npm can be drawn as a hockey stick up and to the right with Isaac Schlueter at the top grinning ear to ear. After reading their recent announcement to hire a CEO, I knew it was time to talk one-on-one with Isaac about building npm and the journey of hiring his successor. </itunes:summary>
+      </item>
+      <item>
+        <title>You might want to read up on PAW Patrol (JS Party #60)</title>
+        <link>https://changelog.com/jsparty/60</link>
+        <guid isPermaLink="false">changelog.com/6/655</guid>
+        <pubDate>Fri, 25 Jan 2019 12:00:00 +0000</pubDate>
+        <dc:creator>Jerod Santo, Suz Hinton, and Kevin Ball</dc:creator>
+        <description><![CDATA[<p>Your 3 intrepid hosts try to explain JS concepts (bind/apply, thunks, and ReasonML) to each other as if we’re five year olds. Hilarity and/or confusion ensues. During <em>Pro Tip Time</em>, Suz tells a story of woe, KBall motivates himself, and Jerod tries to keep you in the flow. Finally, we point our project spotlight at Fly CDN and talk edge applications and IoT.</p>
+
+  <p>Sponsors</p>
+  <ul>
+    <li>
+      <a href="https://rollbar.com/changelog">Rollbar</a> – <strong>We catch our errors before our users do because of Rollbar.</strong> Resolve errors in minutes, and deploy your code with confidence. Learn more at <a href="https://rollbar.com/changelog">rollbar.com/changelog</a>.
+
+    </li>
+    <li>
+      <a href="https://raygun.com/apm">Raygun</a> – Unblock your biggest app performance bottlenecks with Raygun APM. Smarter application performance monitoring (APM) that lets you understand and take action on software issues affecting your customers.
+
+    </li>
+    <li>
+      <a href="https://gauge.org/?utm_source=changelog&amp;utm_medium=podcast&amp;utm_campaign=changelog-sponsorship">Gauge</a> – Low maintenance test automation! Gauge is free and open source test automation framework that takes the pain out of acceptance testing.
+
+    </li>
+    <li>
+      <a href="https://www.fastly.com/?utm_source=changelog&amp;utm_medium=podcast&amp;utm_campaign=changelog-sponsorship">Fastly</a> – <strong>Our bandwidth partner.</strong> Fastly powers fast, secure, and scalable digital experiences. Move beyond your content delivery network to their powerful edge cloud platform. Learn more at <a href="https://www.fastly.com/?utm_source=changelog&amp;utm_medium=podcast&amp;utm_campaign=changelog-sponsorship">fastly.com</a>.
+
+    </li>
+  </ul>
+
+  <p>Featuring</p>
+  <ul>
+    <li>Jerod Santo &ndash; <a href="https://twitter.com/jerodsanto">Twitter</a>, <a href="https://github.com/jerodsanto">GitHub</a>, <a href="https://jerodsanto.net">Website</a></li>
+    <li>Suz Hinton &ndash; <a href="https://twitter.com/noopkat">Twitter</a>, <a href="https://github.com/noopkat">GitHub</a>, <a href="http://noopkat.com/">Website</a></li>
+    <li>Kevin Ball &ndash; <a href="https://twitter.com/kbal11">Twitter</a>, <a href="https://github.com/kball">GitHub</a>, <a href="https://zendev.com/">Website</a></li>
+  </ul>
+<p>Notes and Links</p>
+<h4>Explaining things like we’re 5</h4>
+<ul>
+<li>Here it is: <a href="http://pawpatrol.com">PAW Patrol</a></li>
+<li>Because KBall uses them to describe bind and apply</li>
+<li>Did Suz’ explanation of thunks leave you wanting? <a href="https://en.wikipedia.org/wiki/Thunk">GOTO</a></li>
+<li>You could listen to Jerod, or just read <a href="https://reasonml.github.io/docs/en/what-and-why">this page about Reason</a></li>
+<li>Should we do a show with some folks from the Reason team?</li>
+</ul>
+<h4>Pro Tip Time</h4>
+<ul>
+<li>What is the purpose of /etc/hosts? <a href="https://unix.stackexchange.com/questions/421491/what-is-the-purpose-of-etc-hosts">Read all about it</a></li>
+<li>Jerod mentioned Paul Graham’s essay on <a href="http://www.paulgraham.com/makersschedule.html">Maker Schedule, Manager Schedule</a></li>
+<li>You can also <a href="https://dev.to/jerodsanto/3-ways-to-retain-your-dev-flow-between-sessions--4if2">read Jerod’s tips on dev.to</a></li>
+</ul>
+<h4>Project Spotlight</h4>
+<ul>
+<li><a href="https://github.com/superfly/cdn">Fly CDN</a> - a CDN just for developers</li>
+</ul>
+]]></description>
+
+        <enclosure url="https://cdn.changelog.com/uploads/jsparty/60/js-party-60.mp3" length="89148534" type="audio/mpeg" />
+        <itunes:author>Jerod Santo, Suz Hinton, and Kevin Ball</itunes:author>
+        <itunes:image href="https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63688781367"/>
+        <itunes:duration>1:01:44</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:keywords>javascript, html, web, programming, frontend, backend, node, changelog, css, animation, iot, robotics</itunes:keywords>
+        <itunes:subtitle>with Jerod, Suz, and KBall</itunes:subtitle>
+        <itunes:summary>Your 3 intrepid hosts try to explain JS concepts (bind/apply, thunks, and ReasonML) to each other as if we’re five year olds. Hilarity and/or confusion ensues. During Pro Tip Time, Suz tells a story of woe, KBall motivates himself, and Jerod tries to keep you in the flow. Finally, we point our project spotlight at Fly CDN and talk edge applications and IoT. </itunes:summary>
+		</item>
+	</channel>
+</rss>
